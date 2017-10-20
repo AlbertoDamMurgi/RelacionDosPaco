@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package RelacionDosBasica;
+package relaciondosbasica;
 
 import java.awt.Color;
 import static java.lang.Thread.sleep;
